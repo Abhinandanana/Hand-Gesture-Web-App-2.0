@@ -1,0 +1,32 @@
+body{
+    background-color: #EF2E98;
+    color:white;
+}
+#instructions{
+    font-size: 25px;
+}
+#instructions2{
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+#app_name{
+    font-size: 26px;
+    background-color: turquoise;
+    width: 400px;
+}
+#camera, #results{
+    width:300px;
+    border-style:ridge;
+    border-width: 3px;
+    height: 300px;
+    margin-bottom: 10px;
+
+}
+#webcam, #image{
+    background-color: turquoise;
+    color: white;
+}
+#any, #any2, #any3{
+    background-color: turquoise;
+    font-size: 15px;
+}
